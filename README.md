@@ -1,1 +1,1 @@
-# C_HackerRank
+# Windula-c-hackerrank
